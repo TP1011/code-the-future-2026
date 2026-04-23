@@ -1,0 +1,5 @@
+git+https://github.com/ManuMerlo/AReS-Anesthesia-Response-Simulator.git@main#subdirectory=python
+
+matplotlib
+numpy
+math
