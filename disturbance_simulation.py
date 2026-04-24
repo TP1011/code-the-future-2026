@@ -1,7 +1,14 @@
+'''
+Acest fisier a fost preluat de la adresa https://github.com/ManuMerlo/AReS-Anesthesia-Response-Simulator/blob/main/python/notebooks/disturbance.ipynb
+
+Acesta a fost ulterior modificat
+
+Update: Acest fisier nu mai este utilizat in proiect (nu mai utilizam biblioteca AReS), dar reprezinta o referinta pentru proiectul nostru
+
+'''
+
 # External libraries import
 import matplotlib.pyplot as plt
-import numpy as np
-import math
 
 # Local libraries import
 from AReS import Simulator, Model, Interaction, DoHMeasure, DisturbanceType, SimulatorMode, TciMode
