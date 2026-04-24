@@ -3,3 +3,6 @@ matplotlib
 numpy
 gpiozero
 lgpio
+
+python_anesthesia_simulator
+time
